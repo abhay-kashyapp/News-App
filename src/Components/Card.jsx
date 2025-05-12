@@ -3,7 +3,6 @@ import React from 'react'
 const Card = ({data}) => {
   //console.log(data);
 
-
   const readMore = (url) =>{
    window.open(url)
   }

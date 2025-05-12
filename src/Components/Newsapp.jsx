@@ -1,8 +1,5 @@
 import React, { useEffect, useState } from 'react'
 import Card from './card';
-import { use } from 'react';
-
-
 
 const Newsapp = () => {
 
